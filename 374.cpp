@@ -42,5 +42,7 @@ int main()
         cin>>n>>p;
         cout<<power(x, n, p)<<"\n";
     }
+
+
     return 0;
 }
